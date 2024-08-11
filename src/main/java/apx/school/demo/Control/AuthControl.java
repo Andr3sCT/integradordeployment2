@@ -5,7 +5,7 @@ import apx.school.demo.Dto.AuthenticationResponse;
 import apx.school.demo.Dto.RegisterRequest;
 import apx.school.demo.Entity.AuthEntity;
 import apx.school.demo.Entity.IntEntity;
-import apx.school.demo.MavenintegradorApplication;
+import apx.school.demo.DemoApplication;
 import apx.school.demo.Servicio.JWTService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
